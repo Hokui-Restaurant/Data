@@ -1,7 +1,10 @@
-
 {
-  "EmersonGrande": {
-    "Greeting":"Hii! Welcome to the sweet life, yuh. ☀️ ",
-    "Goodbye":"Thank you, next!"
+  "Emerson Grande":{
+    "ChatData":{
+      "Greeting":"Hii! Welcome to the sweet life, yuh. ☀️ ",
+      "Goodbye":"Thank you, next!"},
+    "Info":{
+      "userId":1
+    }
   }
 }
