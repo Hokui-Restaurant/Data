@@ -1,10 +1,10 @@
 {
-  "Emerson Grande":{
+  "Zak":{
     "ChatData":{
-      "Greeting":"Hii! Welcome to the sweet life, yuh. ☀️ ",
-      "Goodbye":"Thank you, next!"},
+      "Greeting":"Hey, I'd like to order.",
+      "Goodbye":"Thank you!"},
     "Info":{
-      "userId":1
+      "userId": 1027658271
     }
   }
 }
