@@ -22,5 +22,37 @@
     "Info":{
       "userId": 56276046
     }
+  },
+    "Em":{
+    "ChatData":{
+      "Greeting":"Hi there!! I'd like to order.",
+      "Goodbye":"Thank you!"},
+    "Info":{
+      "userId": 144764226
+    }
+  },
+    "Jackie":{
+    "ChatData":{
+      "Greeting":"Hi :D !! I'd like to order.",
+      "Goodbye":"Thank you!"},
+    "Info":{
+      "userId": 55465468
+    }
+  },
+    "Amber":{
+    "ChatData":{
+      "Greeting":"Hello! I'd like to order.",
+      "Goodbye":"Thank you!"},
+    "Info":{
+      "userId": 1272291324
+    }
+  },
+    "Mikey":{
+    "ChatData":{
+      "Greeting":"Yo! I'd like to order.",
+      "Goodbye":"Thank you!"},
+    "Info":{
+      "userId": 689978563
+    }
   
 }
