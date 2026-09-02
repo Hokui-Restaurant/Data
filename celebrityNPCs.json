@@ -50,12 +50,19 @@
       "userId": 1272291324
     }
   },
-    "Mikey":{
+    "Ace":{
     "ChatData":{
       "Greeting":"Yo! I'd like to order.",
       "Goodbye":"Thank you!"},
     "Info":{
-      "userId": 689978563
+      "userId": 1295941860
+    }
+  },
+   "Leo":{
+    "ChatData":{
+      "Greeting":"Hey, I'd like to order.",
+      "Goodbye":"Thank you!"},
+    "Info":{
+      "userId": 1508480502
     }
   }
-}
