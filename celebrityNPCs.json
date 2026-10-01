@@ -65,5 +65,13 @@
     "Info":{
       "userId": 1508480502
     }
+  },
+   "Via":{
+    "ChatData":{
+      "Greeting":"Hey, I'd like to order.",
+      "Goodbye":"Thank you!"},
+    "Info":{
+      "userId": 1027658271
+    }
   }
 }
